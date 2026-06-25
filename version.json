@@ -1,5 +1,48 @@
 {
   "version": "2.0.0",
-  "update_url": "https://github.com/FadhkurNuur/aniquiz/blob/main/version.json",
-  "catatan": "Versi pertama rilis APK baru"
+  "catatan": "Rilis pertama AniQuiz",
+  "packages": [
+    {
+      "id": "code",
+      "label": "Game Files",
+      "url": "https://github.com/USERNAME/REPO/releases/download/v2.0.0/aniquiz_code.zip",
+      "version": "2.0.0"
+    },
+    {
+      "id": "img",
+      "label": "Gambar UI",
+      "url": "https://github.com/USERNAME/REPO/releases/download/v2.0.0/aniquiz_img.zip",
+      "version": "2.0.0"
+    },
+    {
+      "id": "video",
+      "label": "Video UI",
+      "url": "https://github.com/USERNAME/REPO/releases/download/v2.0.0/aniquiz_video.zip",
+      "version": "2.0.0"
+    },
+    {
+      "id": "waifu",
+      "label": "Kartu Waifu",
+      "url": "https://github.com/USERNAME/REPO/releases/download/v2.0.0/aniquiz_waifu.zip",
+      "version": "2.0.0"
+    },
+    {
+      "id": "scene",
+      "label": "Soal Tebak Scene",
+      "url": "https://github.com/USERNAME/REPO/releases/download/v2.0.0/aniquiz_scene.zip",
+      "version": "2.0.0"
+    },
+    {
+      "id": "lagu",
+      "label": "Soal Tebak Lagu",
+      "url": "https://github.com/USERNAME/REPO/releases/download/v2.0.0/aniquiz_lagu.zip",
+      "version": "2.0.0"
+    }
+    {
+      "id": "karakter",
+      "label": "Soal Tebak Karakter",
+      "url": "https://github.com/USERNAME/REPO/releases/download/v2.0.0/aniquiz_karakter.zip",
+      "version": "2.0.0"
+    }
+  ]
 }
