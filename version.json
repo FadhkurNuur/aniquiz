@@ -1,17 +1,12 @@
 {
-  "version": "2.1.0",
+  "version": "2.0.0",
   "packages": [
     {
-      "id": "game",
+      "id": "master_game",
       "label": "Master Game Utama v2.0.0",
-      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/v2.0.0/game_master_v200.zip",
-      "target_version": "2.0.0"
-    },
-    {
-      "id": "game",
-      "label": "Patch Update v2.1.0",
-      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/v2.1.0/patch_v210.zip",
-      "target_version": "2.1.0"
+      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_v200.zip/aniquiz_v200.zip",
+      "target_version": "2.0.0",
+      "size": "179.87 MB"
     }
   ]
 }
