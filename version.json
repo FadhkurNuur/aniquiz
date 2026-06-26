@@ -1,17 +1,25 @@
 {
-  "version": "2.0.1",
+  "version": "1.0.0",
+  "min_apk_version": 1,
   "packages": [
     {
+      "id": "aniquiz_apk_v100",
+      "label": "Master Aplikasi v1.0.0",
+      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_v100/aniquiz.apk",
+      "target_version": "1.0.0",
+      "type": "apk"
+    },
+    {
       "id": "master_game",
-      "label": "Master Game Utama v2.0.0",
-      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_v200.zip/aniquiz_v200.zip",
-      "target_version": "2.0.0"
+      "label": "Master Game Utama v1.0.0",
+      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_v100/v100.zip",
+      "target_version": "1.0.0"
     },
     {
       "id": "patch_game",
-      "label": "Patch v2.0.1",
-      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_v200.zip/patch_v201.zip",
-      "target_version": "2.0.1"
+      "label": "Patch v1.0.1",
+      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_v100/v101.zip",
+      "target_version": "1.0.1"
     }
   ]
 }
