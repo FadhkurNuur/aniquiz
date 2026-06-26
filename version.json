@@ -1,6 +1,6 @@
 {
   "version": "1.0.2",
-  "min_apk_version": 2,
+  "min_apk_version": 1,
   "packages": [
     {
       "id": "aniquiz_apk_v100",
