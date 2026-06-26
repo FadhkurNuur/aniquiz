@@ -1,48 +1,17 @@
 {
-  "version": "2.0.0",
-  "catatan": "Rilis pertama AniQuiz",
+  "version": "2.1.0",
   "packages": [
     {
-      "id": "code",
-      "label": "Game Files",
-      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_code/aniquiz_code.zip",
-      "version": "2.0.0"
+      "id": "game",
+      "label": "Master Game Utama v2.0.0",
+      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/v2.0.0/game_master_v200.zip",
+      "target_version": "2.0.0"
     },
     {
-      "id": "img",
-      "label": "Gambar UI",
-      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_code/aniquiz_img.zip",
-      "version": "2.0.0"
-    },
-    {
-      "id": "karakter",
-      "label": "Soal Tebak Karakter",
-      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_code/aniquiz_karakter.zip",
-      "version": "2.0.0"
-    },
-    {
-      "id": "lagu",
-      "label": "Soal Tebak Lagu",
-      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_code/aniquiz_lagu.zip",
-      "version": "2.0.0"
-    },
-    {
-      "id": "scene",
-      "label": "Soal Tebak Scene",
-      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_code/aniquiz_scene.zip",
-      "version": "2.0.0"
-    },
-    {
-      "id": "video",
-      "label": "Video UI",
-      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_code/aniquiz_video.zip",
-      "version": "2.0.0"
-    },
-    {
-      "id": "waifu",
-      "label": "Kartu Waifu",
-      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_code/aniquiz_waifu.zip",
-      "version": "2.0.0"
+      "id": "game",
+      "label": "Patch Update v2.1.0",
+      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/v2.1.0/patch_v210.zip",
+      "target_version": "2.1.0"
     }
   ]
 }
