@@ -3,8 +3,14 @@
   "min_apk_version": 1,
   "packages": [
     {
-      "id": "master_game",
-      "label": "Master Game Utama v1.0.0",
+      "id": "aniquiz_apk_v100",
+      "label": "Aplikasi v1.0.0",
+      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_v100/aniquiz_v100.apk",
+      "type": "apk"
+    },
+    {
+      "id": "master_game_100",
+      "label": "Master v1.0.0",
       "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_v100/v100.zip",
       "type": "zip"
     },
