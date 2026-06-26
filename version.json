@@ -4,13 +4,13 @@
     {
       "id": "master_game",
       "label": "Master Game Utama v2.0.0",
-      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_v200/aniquiz_v200.zip",
+      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_v200.zip/aniquiz_v200.zip",
       "target_version": "2.0.0"
     },
     {
       "id": "patch_game",
       "label": "Patch v2.0.1",
-      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_v200/patch_v201.zip",
+      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_v200.zip/patch_v201.zip",
       "target_version": "2.0.1"
     }
   ]
