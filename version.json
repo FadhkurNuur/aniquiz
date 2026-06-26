@@ -9,19 +9,19 @@
       "type": "apk"
     },
     {
-      "id": "master_game_100",
+      "id": "master_game_v100",
       "label": "Master v1.0.0",
       "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_v100/v100.zip",
       "type": "zip"
     },
     {
-      "id": "patch_101",
+      "id": "patch_v101",
       "label": "Patch v1.0.1",
       "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_v100/v101.zip",
       "type": "zip"
     },
     {
-      "id": "patch_102",
+      "id": "patch_v102",
       "label": "Patch v1.0.2",
       "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_v100/v102.zip",
       "type": "zip"
