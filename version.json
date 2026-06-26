@@ -5,43 +5,43 @@
     {
       "id": "code",
       "label": "Game Files",
-      "url": "https://drive.google.com/uc?export=download&confirm=t&id=1vEJ9OQlH_SUHTAhwbF5pct-ZAUfPgBfc",
+      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_code/aniquiz_code.zip",
       "version": "2.0.0"
     },
     {
       "id": "img",
       "label": "Gambar UI",
-      "url": "https://drive.google.com/uc?export=download&confirm=t&id=1McC1X8mg6JQK82jbfr29ihKAtQLZX9dF",
-      "version": "2.0.0"
-    },
-    {
-      "id": "waifu",
-      "label": "Kartu Waifu",
-      "url": "https://drive.google.com/uc?export=download&confirm=t&id=1rlGtHL7mGOeKP72U4RvaiggdBgCCCDob",
-      "version": "2.0.0"
-    },
-    {
-      "id": "scene",
-      "label": "Soal Tebak Scene",
-      "url": "https://drive.google.com/uc?export=download&confirm=t&id=1Syqf-YPqa9PP6BXNAgOJewui15lWoFoU",
-      "version": "2.0.0"
-    },
-    {
-      "id": "lagu",
-      "label": "Soal Tebak Lagu",
-      "url": "https://drive.google.com/uc?export=download&confirm=t&id=1obmg2Iddxm8oXk55tI6RxLzOgpiseq3Y",
+      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_code/aniquiz_img.zip",
       "version": "2.0.0"
     },
     {
       "id": "karakter",
       "label": "Soal Tebak Karakter",
-      "url": "https://drive.google.com/uc?export=download&confirm=t&id=1SkC_eNFeiBlKmzVWLNFTzDoEyR4OexSy",
+      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_code/aniquiz_karakter.zip",
+      "version": "2.0.0"
+    },
+    {
+      "id": "lagu",
+      "label": "Soal Tebak Lagu",
+      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_code/aniquiz_lagu.zip",
+      "version": "2.0.0"
+    },
+    {
+      "id": "scene",
+      "label": "Soal Tebak Scene",
+      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_code/aniquiz_scene.zip",
       "version": "2.0.0"
     },
     {
       "id": "video",
       "label": "Video UI",
-      "url": "https://drive.google.com/uc?export=download&confirm=t&id=18IIfS7vib_DeQtYqkjBhZ_QmlOD2bsjM",
+      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_code/aniquiz_video.zip",
+      "version": "2.0.0"
+    },
+    {
+      "id": "waifu",
+      "label": "Kartu Waifu",
+      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_code/aniquiz_waifu.zip",
       "version": "2.0.0"
     }
   ]
