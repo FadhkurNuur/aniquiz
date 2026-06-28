@@ -35,6 +35,12 @@
     {
       "id": "patch_v104",
       "label": "Patch v1.0.4",
+      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_v100/v105.zip",
+      "type": "zip"
+    },
+    {
+      "id": "patch_v105",
+      "label": "Patch v1.0.5",
       "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_v100/v104.zip",
       "type": "zip"
     }
