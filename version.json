@@ -1,11 +1,11 @@
 {
   "version": "1.0.4",
-  "min_apk_version": 1,
+  "min_apk_version": 2,
   "packages": [
     {
-      "id": "aniquiz_apk_v100",
-      "label": "Aplikasi v1.0.0",
-      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_v100/aniquiz_v100.apk",
+      "id": "aniquiz_apk_v200",
+      "label": "Aplikasi v2.0.0",
+      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_v200/aniquiz_v200.apk",
       "type": "apk"
     },
     {
