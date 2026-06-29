@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
+  "version": "1.1.0",
   "min_apk_version": 2,
   "packages": [
     {
@@ -66,6 +66,12 @@
       "id": "patch_v109",
       "label": "Patch v1.0.9",
       "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_v100/v109.zip",
+      "type": "zip"
+    },
+    {
+      "id": "patch_v110",
+      "label": "Patch v1.1.0",
+      "url": "https://github.com/FadhkurNuur/aniquiz/releases/download/aniquiz_v100/v110.zip",
       "type": "zip"
     }
   ]
